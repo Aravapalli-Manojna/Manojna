@@ -1,0 +1,388 @@
+DSA QUESTIONS :
+
+
+Absolutely! Since you're preparing for an **Amazon SDE-1 interview**, especially with a **Data Structures and Algorithms (DSA)** focus, here's the ultimate master list — all interview topics, patterns, and **high-yield questions**.
+
+---
+
+## ✅ DSA MASTERLIST for SDE-1 Interviews (Amazon, etc.)
+
+Each section below includes:
+
+* **Topic**
+* **What you must know**
+* **Must-practice questions** (from platforms like LeetCode, GFG, etc.)
+
+---
+
+### 🔁 **1. Arrays & Strings**
+
+#### Concepts:
+
+* Prefix sum
+* Two pointers
+* Sliding window
+* In-place operations
+* Kadane’s algorithm
+
+#### Must-know Questions:
+
+* Two Sum
+* Maximum Subarray
+* Best Time to Buy and Sell Stock
+* Product of Array Except Self
+* Longest Substring Without Repeating Characters
+* Rotate Array
+* Container With Most Water
+* Merge Intervals
+
+---
+
+### 🔄 **2. Sliding Window Technique**
+
+* Fixed-size and variable-size windows
+* Optimal for subarrays and substrings
+
+#### Examples:
+
+* Minimum Window Substring
+* Longest Substring Without Repeating Characters
+* Maximum Sum Subarray of Size K
+* Max Consecutive Ones III
+
+---
+
+### 🪢 **3. Linked Lists**
+
+#### Concepts:
+
+* Singly vs Doubly
+* Fast and slow pointers
+* Reversal, middle element
+* Detect and remove cycles
+
+#### Must-know Questions:
+
+* Reverse Linked List
+* Detect Cycle in a Linked List
+* Merge Two Sorted Lists
+* Remove N-th Node From End
+* Copy List with Random Pointer
+
+---
+
+### 🌲 **4. Trees and Binary Trees**
+
+#### Concepts:
+
+* Traversals: Inorder, Preorder, Postorder, Level Order
+* Binary Search Tree (BST)
+* Recursion and DFS/BFS
+* Diameter, height, balanced tree
+* Lowest Common Ancestor (LCA)
+
+#### Must-know Questions:
+
+* Invert Binary Tree
+* Binary Tree Level Order Traversal
+* Validate BST
+* Lowest Common Ancestor
+* Maximum Depth of Binary Tree
+* Diameter of Binary Tree
+* Serialize and Deserialize Binary Tree
+
+---
+
+### 🌳 **5. Binary Search Trees (BST)**
+
+#### Concepts:
+
+* Inorder traversal
+* Insert/Delete/Search in BST
+* Convert sorted array to BST
+* Kth smallest/largest element
+
+---
+
+### 🔍 **6. Binary Search**
+
+#### Must-know:
+
+* Search in sorted/rotated arrays
+* First and last occurrence
+* Lower bound / Upper bound
+
+#### Questions:
+
+* Binary Search
+* Search in Rotated Sorted Array
+* Median of Two Sorted Arrays
+* Find Peak Element
+* Search a 2D Matrix
+
+---
+
+### 🧮 **7. Hashing / HashMap / HashSet**
+
+#### Must-know:
+
+* Frequency counting
+* Hashing with custom keys
+* Hash collisions
+* HashMap with sliding window
+
+#### Questions:
+
+* Two Sum
+* Group Anagrams
+* Top K Frequent Elements
+* Longest Consecutive Sequence
+* Subarray Sum Equals K
+
+---
+
+### 🧵 **8. Recursion & Backtracking**
+
+#### Concepts:
+
+* Subsets, permutations
+* DFS with decision trees
+* Pruning
+
+#### Questions:
+
+* Subsets
+* Permutations
+* N-Queens
+* Word Search
+* Sudoku Solver
+
+---
+
+### 📐 **9. Dynamic Programming (DP)**
+
+#### Must know patterns:
+
+* 0/1 Knapsack
+* Longest Increasing Subsequence
+* Longest Common Subsequence
+* DP on grids / matrices
+* DP on strings
+* Memoization and tabulation
+
+#### Questions:
+
+* Climbing Stairs
+* House Robber
+* Longest Increasing Subsequence
+* Longest Common Subsequence
+* Coin Change
+* Edit Distance
+* Partition Equal Subset Sum
+
+---
+
+### 💰 **10. Greedy Algorithms**
+
+#### Must-know:
+
+* Activity selection
+* Sorting + decision
+* When greedy gives optimal result
+
+#### Questions:
+
+* Jump Game
+* Gas Station
+* Merge Intervals
+* Non-overlapping Intervals
+* Minimum Number of Platforms
+
+---
+
+### 📊 **11. Heaps / Priority Queue**
+
+#### Concepts:
+
+* Min heap vs max heap
+* Kth smallest/largest
+* Custom comparators
+* Heapify, PriorityQueue in Java/Python
+
+#### Questions:
+
+* Kth Largest Element in Array
+* Merge K Sorted Lists
+* Top K Frequent Elements
+* Median from Data Stream
+
+---
+
+### 🧭 **12. Graphs**
+
+#### Must-know:
+
+* Adjacency list/matrix
+* DFS/BFS
+* Union Find (Disjoint Set)
+* Topological Sort
+* Shortest Path: Dijkstra, Bellman-Ford
+* MST: Kruskal/Prim
+
+#### Questions:
+
+* Number of Islands (BFS/DFS)
+* Clone Graph
+* Course Schedule (Topological Sort)
+* Word Ladder
+* Network Delay Time
+* Accounts Merge
+
+---
+
+### 🧰 **13. Tries (Prefix Trees)**
+
+#### Use-cases:
+
+* Auto-complete
+* Dictionary lookup
+* Word filtering
+
+#### Questions:
+
+* Implement Trie
+* Word Search II
+* Longest Word in Dictionary
+* Replace Words
+
+---
+
+### 🧠 **14. Bit Manipulation**
+
+#### Concepts:
+
+* XOR operations
+* Power of two
+* Counting bits
+* Bit masking
+
+#### Questions:
+
+* Single Number
+* Number of 1 Bits
+* Counting Bits
+* Subsets using bitmasking
+
+---
+
+### 🔧 **15. Stack / Queue / Deque**
+
+#### Questions:
+
+* Valid Parentheses
+* Min Stack
+* Next Greater Element
+* Daily Temperatures
+* Implement Queue using Stacks
+* Sliding Window Maximum
+
+---
+
+### 🧩 **16. Matrix Problems**
+
+#### Concepts:
+
+* Traversal patterns
+* Flood fill
+* Spiral matrix
+* DFS/BFS in grid
+
+#### Questions:
+
+* Set Matrix Zeroes
+* Spiral Order
+* Word Search
+* Flood Fill
+* Number of Islands
+
+---
+
+### 📦 **17. Union-Find / Disjoint Set**
+
+#### Questions:
+
+* Redundant Connection
+* Accounts Merge
+* Number of Connected Components
+
+---
+
+### 🌐 **18. System Design (Basics for SDE-1)**
+
+> Not a major focus for SDE-1, but they may test **your understanding of systems**, APIs, scalability, and design thinking.
+
+#### Know these:
+
+* What is load balancer?
+* What is cache and how it helps?
+* Difference between SQL and NoSQL
+* Design a URL shortener
+* Design a rate limiter
+* How to scale a backend service
+
+---
+
+### 🧮 **19. Math & Number Theory**
+
+* Prime numbers (Sieve of Eratosthenes)
+* GCD, LCM
+* Modular arithmetic
+* Combinatorics (nCr, factorial mod)
+
+---
+
+### 📈 **20. Time & Space Complexity**
+
+You **must** be able to:
+
+* Analyze Big-O of code
+* Optimize brute force to better complexity
+* Discuss time vs space trade-offs
+
+---
+
+## 🎯 Amazon-Specific Patterns
+
+Amazon often asks questions on:
+
+* Arrays + Hashing
+* Sliding window
+* Trees (LCA, DFS)
+* DP (especially 1D and 2D DP)
+* Greedy + Heap combos
+* Graph BFS/DFS
+* String compression and manipulation
+* Behavior aligned with **Leadership Principles**
+
+---
+
+## ✅ Behavioral Questions (STAR format)
+
+Prepare answers for:
+
+* Tell me about a challenge you faced in a team.
+* Tell me about a time you failed and what you learned.
+* How do you prioritize under deadlines?
+* When did you take ownership beyond your role?
+
+---
+
+## 🚀 Want a PDF Sheet?
+
+I can generate:
+
+* A full **DSA Cheat Sheet**
+* **Topic-wise Tracker with links to LeetCode problems**
+* Custom **Mock Interview Script with coding + behavioral**
+
+Let me know how you want to practice — you're right at the door to Amazon. Let’s crack it.
